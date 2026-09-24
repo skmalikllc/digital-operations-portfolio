@@ -1,4 +1,8 @@
+<img src="https://raw.githubusercontent.com/skmalikllc/automation-portfolio/main/assets/cover-digital-ops.png" alt="cover" width="100%">
+
 # Digital Operations — earlier work
+
+`ENGAGEMENT RECORD`
 
 **Project type:** Sanitized engagement record — earlier and secondary work
 **Evidence sources:** completed Fiverr orders, public client reviews, published Fiverr portfolio projects, historical account audit
